@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "541737204954",
+    "firebase_url": "https://ihealth-9730b.firebaseio.com",
+    "project_id": "ihealth-9730b",
+    "storage_bucket": "ihealth-9730b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541737204954:android:6ec93aaea39dee99",
+        "android_client_info": {
+          "package_name": "edu.nkfust.tianming.ihealth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541737204954-ctjfaokq8l57rinm7p96kfe34057en01.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.nkfust.tianming.ihealth",
+            "certificate_hash": "80c38752ab47679c6fb550ae9526b8e764feb4ef"
+          }
+        },
+        {
+          "client_id": "541737204954-bls030vffejscicqqi1t7dcdf7mgmchd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC58hqfN0Oxa_G0P2eVfPNk8YU_vXkMk3Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541737204954-bls030vffejscicqqi1t7dcdf7mgmchd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
